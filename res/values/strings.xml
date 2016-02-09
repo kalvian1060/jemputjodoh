@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AplikasiJodoh</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_taaruf">TaarufActivity</string>
+    <string name="title_activity_syarat">SyaratActivity</string>
+    <string name="title_activity_cara">CaraActivity</string>
+    <string name="title_activity_pengelola">PengelolaActivity</string>
+
+</resources>
